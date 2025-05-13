@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../test"
+		},
+		{
+			"name": "grippe_xy mqtt",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
